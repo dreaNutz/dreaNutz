@@ -30,7 +30,7 @@
 
 <br/>
 
-[![Spotify](https://img.shields.io/badge/Spotify-NOW_PLAYING-1DB954?style=for-the-badge&logo=spotify&logoColor=white&labelColor=0d0d0d)](https://open.spotify.com) 🎵 満ちてゆく(Overflowing) Fujii Kaze  ═══ ▶ ━━●──── 5:18 🔀 ↻ ♡ 
+[![Spotify](https://img.shields.io/badge/Spotify-NOW_PLAYING-1DB954?style=for-the-badge&logo=spotify&logoColor=white&labelColor=0d0d0d)](https://open.spotify.com) 🎵 満ちてゆく(Overflowing) Fujii Kaze═▶━━●── 1:18 🔀 ↻ ♡ 
 
 ## 🧰 things i work with
 
@@ -150,7 +150,6 @@
 </div>
 
 
-#### stats
 
 
 <div align="center">
