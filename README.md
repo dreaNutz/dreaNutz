@@ -1,6 +1,6 @@
 <!-- HEADER -->
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=17,18,19,20&height=220&section=header&text=A+n+d+r+e+a&fontSize=75&fontColor=ffcce0&animation=twinkling&fontAlignY=42&desc=Security+Researcher+·+curious+human+·+CTF+PLAYER&descAlignY=63&descSize=17&descColor=ffd6e7"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=17,18,19,20&height=220&section=header&text=d+r+e+a+N+u+t+z&fontSize=75&fontColor=ffcce0&animation=twinkling&fontAlignY=42&desc=Security+Researcher+·+curious+human+·+CTF+PLAYER&descAlignY=63&descSize=17&descColor=ffd6e7"/>
 </div>
 
 
@@ -17,7 +17,7 @@
 ---
 
 <!-- ABOUT -->
-## 🌸 hi, i'm  Andrea
+## 🌸 hi, i'm  dreaNutz
 
 <img align="right" width="270" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2RsbnV0eGh6a29ubXV4NTA5Njd4ZHQ3cjZpbGJwMnh6czg5NTRjbSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/djj4FGpee1d067eJID/giphy.gif" />
 
@@ -38,7 +38,7 @@
 <div align="center">
 
 
-**programming & automation**
+**program & automation**
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
