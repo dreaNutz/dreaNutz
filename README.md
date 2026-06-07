@@ -10,7 +10,7 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=3000&pause=1000&color=FF85A1&center=true&vCenter=true&random=false&width=720&lines=just+a+student+figuring+things+out;exploring+security,+design+%26+everything+in+between;currently+enjoying+kineme;powered+by+peanuts+%26+way+too+much+caffeine;still+learning.+always+learning." />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=3000&pause=1000&color=FF85A1&center=true&vCenter=true&random=false&width=720&lines=just+a+student+figuring+things+out;exploring+security,+design+%26+everything+in+between;currently+enjoying+forensicks;powered+by+peanuts+%26+way+too+much+caffeine;still+learning.+always+learning." />
 </p>
 <br/>
 
