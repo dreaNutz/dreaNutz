@@ -1,6 +1,6 @@
 <!-- HEADER -->
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=17,18,19,20&height=220&section=header&text=d+r+e+a+N+u+t+z&fontSize=75&fontColor=ffcce0&animation=twinkling&fontAlignY=42&desc=curious+hooman+·+Information+Technology+Student&descAlignY=63&descSize=17&descColor=ffd6e7"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=17,18,19,20&height=220&section=header&text=D+r+e+a+i+t+h&fontSize=75&fontColor=ffcce0&animation=twinkling&fontAlignY=42&desc=curious+hooman+·+Information+Technology+Student&descAlignY=63&descSize=17&descColor=ffd6e7"/>
 </div>
 
 
@@ -14,40 +14,40 @@
 </p>
 <br/>
 
----
 
-## 🌸 hi, i'm  dreaNutz
+## 🌸 hi, i'm  Dreaith
 
-<img align="right" width="270" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2RsbnV0eGh6a29ubXV4NTA5Njd4ZHQ3cjZpbGJwMnh6czg5NTRjbSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/djj4FGpee1d067eJID/giphy.gif" />
+<img align="right" width="270" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWJoanBvOXh3NXd1azVleXdoYTk1a2Z5cmx6c2hwOGVkeGd3dmFqeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Yc65Sk2Hwkzgk/giphy.gif" />
 
 ```
   a student who loves learning new things.
 
-  OS      →  Linux // Windows
+  OS      →  Linux / Kali / Windows
   Fuel    →  ☕ caffeine  
   Status  →  🌸 just vibing & learning
 ```
 
 <br/>
 
-[![Spotify](https://img.shields.io/badge/Spotify-NOW_PLAYING-1DB954?style=for-the-badge&logo=spotify&logoColor=white&labelColor=0d0d0d)](https://open.spotify.com) 🎵 満ちてゆく(Overflowing) Fujii Kaze═▶━━●── 1:18 🔀 ↻ ♡ 
-
 ## 🧰 things i work with
 
 <div align="center">
 
-
-**program & automation**
+<br> **program & automation**
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
+
 
 **systems & platforms**
 
@@ -66,6 +66,7 @@
   <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
   <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"/>
   <img src="https://img.shields.io/badge/Obsidian-7C3AED?style=for-the-badge&logo=obsidian&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
 </p>
 
 </div>
@@ -100,7 +101,7 @@
 
 
 
-##  THM badges
+## ✦ T H M  badges
 
 <div align="center">
 <div style="display:flex;flex-wrap:wrap;gap:8px;justify-content:center;">
@@ -150,36 +151,65 @@
 </div>
 
 
-
+#### ✦ &nbsp;  &nbsp; the joy of discovery
 
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=amdreaith&show_icons=true&theme=tokyonight&hide_border=true&title_color=ffb6c1&icon_color=ffb6c1&text_color=ffffff&bg_color=0d1117&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amdreaith&layout=compact&theme=tokyonight&hide_border=true&title_color=ffb6c1&text_color=ffffff&bg_color=0d1117&langs_count=8" alt="Top Languages"/>
+  <table>
+    <tr>
+      <td width="72%" valign="middle">
+        <p>There is so much joy in exploring. Some things feel overwhelming. Sometimes I feel small. But both are gifts. I did not earn the right to discover. It is a privilege given to us. I am ambitious, but not arrogant. That ambition is simply the beauty of wanting to learn more, see more, and grow deeper in this field. Do not let your emotions kill your progress. Love the grind. Love the caffeine. This is what you prayed for.</p>
+      </td>
+      <td width="28%" align="center" valign="middle">
+        <img src="https://github.com/user-attachments/assets/11ac384e-c070-45b2-baa9-a91241326ffe" alt="a spark of discovery" width="85%" style="border-radius: 8px;" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br />
+
+<div align="center">
+  <table>
+    <tr>
+      <td width="60%" valign="middle">
+        <blockquote>
+          <strong>"When I am afraid, I put my trust in You."</strong><br />
+          <em>Psalm 56:3</em>
+        </blockquote>
+        <br />
+        <blockquote>
+          <strong>"The Lord will fight for you; you need only to be still."</strong><br />
+          <em>Exodus 14:14</em>
+        </blockquote>
+      </td>
+      <td width="40%" align="right">
+        <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2xwNGg1czJqOXU0dGlzaGFjbTdncDU5M2kwdXhjYWM0eHJka2IzMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iFfdVAb35oEUCczP2S/giphy.gif" alt="ocean waves" width="100%" style="border-radius: 8px;" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=amdreaith&theme=tokyonight&hide_border=true&ring=ffb6c1&fire=ffb6c1&currStreakLabel=ffb6c1&background=0d1117" alt="GitHub Streak"/>
-</div>
-
-<br/>
-
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=amdreaith&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7"/>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amdreaith&bg_color=0d1117&color=ffb6c1&line=ff85a1&point=ffffff&area=true&area_color=ffb6c1&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=dreaithz&theme=tokyonight&hide_border=true&ring=ffb6c1&fire=ffb6c1&currStreakLabel=ffb6c1&background=0d1117" alt="GitHub Streak"/>
 </div>
 
 <br/>
 
 
 
+
 <div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dreaithz&bg_color=0d1117&color=ffb6c1&line=ff85a1&point=ffffff&area=true&area_color=ffb6c1&hide_border=true"/>
+</div>
+
+<br/>
+
+
+<div align="center">
+
+
+ <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3Z2N6ZTRkc3RtYnd2b2R6a21xbXo4aHRua3Z3eDFqcmg2c280b21udyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/CSxv7CZ1Aweil7wzDf/giphy.gif" width="150" />
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=17,18,19,20&height=130&section=footer&animation=twinkling&text=see+you+around+🌸&fontSize=22&fontColor=ffd6e7&fontAlignY=65"/>
 </div>
