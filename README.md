@@ -15,16 +15,30 @@
 <br/>
 
 
-## 🌸 hi, i'm  Dreaith
-
 <img align="right" width="270" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWJoanBvOXh3NXd1azVleXdoYTk1a2Z5cmx6c2hwOGVkeGd3dmFqeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Yc65Sk2Hwkzgk/giphy.gif" />
 
 ```
-  a student who loves learning new things.
+> loading user profile...
+=====================================
+  W H O . E X E
+=====================================
 
-  OS      →  Linux / Kali / Windows
-  Fuel    →  ☕ caffeine  
-  Status  →  🌸 just vibing & learning
+Name  → Dreaith
+Witty    →  yes (source: me)
+OS     →  Linux · Kali · Windows
+Fuel   →  kopikoblanka ☕
+Status     →  spent 4 hours picking a color palette
+               for a project nobody asked for
+               (the palette was wrong anyway)
+
+=====================================
+  README.md → TODO
+  HELP.md   → please
+=====================================
+
+> shutting down...
+> just kidding
+> [continues doing nothing productively]
 ```
 
 <br/>
@@ -151,22 +165,6 @@
 </div>
 
 
-#### ✦ &nbsp;  &nbsp; the joy of discovery
-
-<div align="center">
-  <table>
-    <tr>
-      <td width="72%" valign="middle">
-        <p>There is so much joy in exploring. Some things feel overwhelming. Sometimes I feel small. But both are gifts. I did not earn the right to discover. It is a privilege given to us. I am ambitious, but not arrogant. That ambition is simply the beauty of wanting to learn more, see more, and grow deeper in this field. Do not let your emotions kill your progress. Love the grind. Love the caffeine. This is what you prayed for.</p>
-      </td>
-      <td width="28%" align="center" valign="middle">
-        <img src="https://github.com/user-attachments/assets/11ac384e-c070-45b2-baa9-a91241326ffe" alt="a spark of discovery" width="85%" style="border-radius: 8px;" />
-      </td>
-    </tr>
-  </table>
-</div>
-
-<br />
 
 <div align="center">
   <table>
@@ -211,5 +209,10 @@
 
 
  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3Z2N6ZTRkc3RtYnd2b2R6a21xbXo4aHRua3Z3eDFqcmg2c280b21udyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/CSxv7CZ1Aweil7wzDf/giphy.gif" width="150" />
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=17,18,19,20&height=130&section=footer&animation=twinkling&text=see+you+around+🌸&fontSize=22&fontColor=ffd6e7&fontAlignY=65"/>
+ </div>
+
+ <div align="center">
+   if you read this whole thing you owe me a job 🐹
+ <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=17,18,19,20&height=130&section=footer&animation=twinkling&text=see+you+around+🌸&fontSize=22&fontColor=ffd6e7&fontAlignY=65"/>
+  
 </div>
