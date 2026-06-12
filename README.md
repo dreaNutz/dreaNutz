@@ -90,29 +90,6 @@ Status     →  spent 4 hours picking a color palette
 </p>
 
 
-## 📜 certifications
-
-<div align="center">
-
-| credential | issuer | year |
-|:---|:---:|:---:|
-| Google Cybersecurity Professional Certificate | Google | `2025` |
-| Google UX Design Professional Certificate | Google | `2025` |
-| Google Gemini Certified Student | Google | `2025` |
-| Introduction to Cybersecurity | Cisco | `2025` |
-| JavaScript Essentials 1 | Cisco | `2025` |
-| Getting Started with Packet Tracer | Cisco | `2025` |
-| Computer Hardware Basics | Cisco | `2026` |
-| Jr. Penetration Tester Path | TryHackMe | `2026` |
-| Web Fundamentals Path | TryHackMe | `2026` |
-| Cybersecurity 101 Path | TryHackMe | `2026` |
-| Advent of Cyber 2025 | TryHackMe | `2025` |
-| Industrial Intrusion CTF | TryHackMe | `2025` |
-| Pre-Security Path | TryHackMe | `2025` |
-| CSEDP | SecOps | `2026` |
-
-</div>
-
 
 
 ## ✦ T H M  badges
